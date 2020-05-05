@@ -1,0 +1,13 @@
+name: remote.zmote
+description: zmote integration for Home Assistant
+type: component
+keywords:
+  - remote
+  - zmote
+author:
+  name: divainkus
+  email: d1pro@yandex.ru
+  homepage: https://github.com/divanikus/zmote
+license: MIT
+files:
+  - custom_components/zmote/remote.py
