@@ -3,5 +3,6 @@
   "name": "zMote universal IR remotes",
   "documentation": "https://www.home-assistant.io/integrations/zmote",
   "requirements": [],
-  "codeowners": []
+  "codeowners": [],
+  "version": "0.1.0"
 }
