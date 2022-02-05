@@ -186,7 +186,7 @@ class Connector(object):
 
         self._transport.disconnect()
 
-class Zmote2IRRemote(remote.RemoteDevice):
+class Zmote2IRRemote(remote.RemoteEntity):
     """Device that sends commands to an zmote IR device."""
 
     def __init__(self, zmc, name, cmds):
